@@ -1,0 +1,102 @@
+{
+  "version": "1.9.44",
+  "databasePath": ".versiondb",
+  "noteIdFrontmatterKey": "vc-id",
+  "legacyNoteIdFrontmatterKeys": [],
+  "keyUpdatePathFilters": [],
+  "defaultExportFormat": "md",
+  "enableCompression": true,
+  "autoRegisterNotes": false,
+  "pathFilters": [],
+  "noteIdFormat": "{path}",
+  "versionIdFormat": "{name}_{version}",
+  "centralManifest": {
+    "version": "1.0.0",
+    "notes": {
+      "Сборщик_ИИ ФМ-С v4.9 _from V202605_md": {
+        "notePath": "Сборщик/ИИ ФМ-С v4.9 _from V202605.md",
+        "manifestPath": ".versiondb/Сборщик_ИИ ФМ-С v4.9 _from V202605_md/manifest.json",
+        "createdAt": "2026-05-12T09:59:17.105Z",
+        "lastModified": "2026-05-12T21:19:38.056Z"
+      },
+      "Сборщик_Сценарии для тестирования ФМ_md": {
+        "notePath": "Сборщик/Сценарии для тестирования ФМ.md",
+        "manifestPath": ".versiondb/Сборщик_Сценарии для тестирования ФМ_md/manifest.json",
+        "createdAt": "2026-05-13T19:47:58.300Z",
+        "lastModified": "2026-05-13T19:47:58.300Z"
+      },
+      "Сборщик_ИИ ФМ-С v5.0_md": {
+        "notePath": "Сборщик/ИИ ФМ-С v5.0.md",
+        "manifestPath": ".versiondb/Сборщик_ИИ ФМ-С v5.0_md/manifest.json",
+        "createdAt": "2026-05-10T12:17:14.809Z",
+        "lastModified": "2026-05-13T20:21:10.568Z"
+      },
+      "Сборщик_Гайд по фреймворкам ИИ v2_md": {
+        "notePath": "Сборщик/Гайд по фреймворкам ИИ v2.md",
+        "manifestPath": ".versiondb/Сборщик_Гайд по фреймворкам ИИ v2_md/manifest.json",
+        "createdAt": "2026-05-14T19:09:36.324Z",
+        "lastModified": "2026-05-14T19:09:36.324Z"
+      },
+      "Сборщик_Скрипт задач в проекты на базе QuickAdd JS_md": {
+        "notePath": "Сборщик/Скрипт задач в проекты на базе QuickAdd JS.md",
+        "manifestPath": ".versiondb/Сборщик_Скрипт задач в проекты на базе QuickAdd JS_md/manifest.json",
+        "createdAt": "2026-05-14T19:18:32.309Z",
+        "lastModified": "2026-05-14T19:18:32.309Z"
+      }
+    }
+  },
+  "versionHistorySettings": {
+    "maxVersionsPerNote": 50,
+    "autoCleanupOldVersions": false,
+    "autoCleanupDays": 60,
+    "useRelativeTimestamps": true,
+    "enableVersionNaming": true,
+    "enableVersionDescription": true,
+    "showDescriptionInList": true,
+    "isListView": true,
+    "renderMarkdownInPreview": true,
+    "enableWatchMode": false,
+    "watchModeInterval": 60,
+    "autoSaveOnSave": false,
+    "autoSaveOnSaveInterval": 2,
+    "enableMinLinesChangedCheck": false,
+    "minLinesChanged": 5,
+    "enableWordCount": false,
+    "includeMdSyntaxInWordCount": false,
+    "enableCharacterCount": false,
+    "includeMdSyntaxInCharacterCount": false,
+    "enableLineCount": false,
+    "includeMdSyntaxInLineCount": false,
+    "isGlobal": true,
+    "enableDiskPersistence": true,
+    "autoRegisterNotes": false,
+    "pathFilters": []
+  },
+  "editHistorySettings": {
+    "maxVersionsPerNote": 50,
+    "autoCleanupOldVersions": false,
+    "autoCleanupDays": 60,
+    "useRelativeTimestamps": true,
+    "enableVersionNaming": false,
+    "enableVersionDescription": false,
+    "showDescriptionInList": false,
+    "isListView": true,
+    "renderMarkdownInPreview": true,
+    "enableWatchMode": false,
+    "watchModeInterval": 60,
+    "autoSaveOnSave": false,
+    "autoSaveOnSaveInterval": 2,
+    "enableMinLinesChangedCheck": false,
+    "minLinesChanged": 5,
+    "enableWordCount": false,
+    "includeMdSyntaxInWordCount": false,
+    "enableCharacterCount": false,
+    "includeMdSyntaxInCharacterCount": false,
+    "enableLineCount": false,
+    "includeMdSyntaxInLineCount": false,
+    "isGlobal": true,
+    "enableDiskPersistence": true,
+    "autoRegisterNotes": false,
+    "pathFilters": []
+  }
+}
